@@ -1,10 +1,12 @@
 # MyCoin - Баг трекер
 
-Статус стабильной версии (master): [![Netlify Status](https://api.netlify.com/api/v1/badges/ff3928cd-6fe8-4980-9dba-7cb4de249332/deploy-status)](https://app.netlify.com/sites/nostalgic-dijkstra-86999e/deploys)
+## Сборки
 
-Статус тестовой версии (test): Не выпущена
+Статус стабильной сборки (master): [![Netlify Status](https://api.netlify.com/api/v1/badges/ff3928cd-6fe8-4980-9dba-7cb4de249332/deploy-status)](https://app.netlify.com/sites/nostalgic-dijkstra-86999e/deploys)
 
-## Инструкция по созданию отчетов в баг-трекере
+Статус тестовой сборки (test): Не выпущена
+
+## Инструкции по созданию отчетов в баг-трекере
 
 - Создавать отчеты можно [здесь](https://github.com/skritt3/MyCoinIssues/issues) используя кнопку "New Issue"
 
@@ -36,6 +38,8 @@
 **Платформа:** Платформа на которой произошел баг (IOS/ANDROID).
 
 **Версия**: Версия платформы (Например: 9.0)
+
+**Сборка**: Кодовое название сборки из списка сверху на которой произошел баг (Например: master)
 
 **VK ID**: ID вашей страницы ВКонтакте на которой был воспроизведен баг
 
